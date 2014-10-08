@@ -45,6 +45,8 @@ Core User Stories:
   - Project Details with minimal info
   - Preferences
 
+Link to Wireframe: https://moqups.com/mani.aucse/rtUMlHk3/p:a3b290df6
+
 Optional User Stories:		
 ======================	
 
